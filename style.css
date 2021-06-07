@@ -1,0 +1,33 @@
+body{
+    text-align:center;
+    background-color: coral;
+}
+div{
+    margin-top: 15px;
+}
+.image-section{
+    display: flex;
+    justify-content: center;
+}
+section-style{
+    margin-right: 25px;
+    margin-left: 25px;
+    background-color:white;
+}
+#dog{
+   width: 480px;
+    height: 270px;
+    
+    
+}
+#flower2{
+    width: 480px;
+    height: 270px;
+}
+#beach{
+    width:480px;
+        height:270px;
+}
+#part1{
+    margin-right: 100px;
+}
